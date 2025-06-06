@@ -14,5 +14,14 @@
     "prebuild": {},
     "lint": {},
     "check-types": {}
+  },
+  "boundaries": {
+    "tags": {
+      "private": {
+        "dependents": {
+          "allow": []
+        }
+      }
+    }
   }
 }
