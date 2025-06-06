@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       turbo:
-        specifier: ^2.5.4
+        specifier: ^2.5.4-canary.1
         version: 2.5.4
 
   apps/app-a:
